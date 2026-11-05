@@ -10,5 +10,5 @@ Objectives:
 - Investigate differences in the distribution of congenital anomalies;
 - Discuss data quality, underreporting and limitations of SINASC.
 
-Tools:
+Tools used:
 - RStudio.
