@@ -12,3 +12,11 @@ Objectives:
 
 Tools used:
 - RStudio.
+
+## Author
+
+Biomedical researcher interested in epidemiology, medical genetics, and health data science.
+
+## Current focus
+
+Learning and applying R for epidemiological analysis and public health research.
